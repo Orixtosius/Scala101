@@ -1,3 +1,5 @@
+package CustomLists
+
 
 object TestLinkedList extends App {
   val list = new NonEmptyLinkedList(1, EmptyLinkedList)
